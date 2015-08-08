@@ -1,2 +1,2 @@
-document.body.style.filter = 'grayscale(1)';
+$('body').css('filter', 'grayscale(1)');
 alert("diddly piddle");
