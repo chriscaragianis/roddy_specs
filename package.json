@@ -1,0 +1,13 @@
+{
+  "title": "Critique of Ideology Glasses",
+  "name": "roddyspecs",
+  "version": "0.0.1",
+  "description": "See analysis of \"They Live\" from Slavov Zizek's \"A Pervert's Guide to Ideology\" https://www.youtube.com/watch?v=18qD9hmU9xg",
+  "main": "index.js",
+  "author": "Chris Caragianis",
+  "engines": {
+    "firefox": ">=38.0a1",
+    "fennec": ">=38.0a1"
+  },
+  "license": "MIT"
+}
